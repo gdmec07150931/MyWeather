@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="refresh" type="id" />
+    <item name="province_spinner" type="id" />
+    <item name="city" type="id" />
+</resources>
